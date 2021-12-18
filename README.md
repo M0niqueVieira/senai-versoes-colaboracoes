@@ -1,7 +1,7 @@
 # senai-versoes-colaboracoes
-Atividade
+
 Principais comandos:
-Comandos:
+
 * git init: Cria a estrutura inicial do repositório Git no computador local.
 * git status: Verifica o status das alterações realizadas no repositório.
 * git add: Adiciona arquivos ao histórico do projeto, na staging.

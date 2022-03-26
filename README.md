@@ -1,3 +1,4 @@
+Realizando alterações
 # senai-versoes-colaboracoes
 
 Principais comandos:
